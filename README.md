@@ -1,6 +1,6 @@
 # 77Build
-让打包构建更简单
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+让打包构建更简单
 
 
 ### [必须]
