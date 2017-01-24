@@ -10,13 +10,13 @@
 ```shell
 #<---------可选参数----------->
 #工程名
-Project_Name="FantasticImg"
+Project_Name="xxxxxx"
 #workspace的名字
-xcworkspace="FantasticImg"
+xcworkspace="xxxxxx"
 #scheme的名字
-scheme="FantasticImg"
+scheme="xxxxxx"
 #plist路径
-ADHOCExportOptionsPlist=./$Project_Name/Info.plist
+ADHOCExportOptionsPlist=./$Project_Name/xxxxxx.plist
 #环境配置,Release或者Debug,Release
 Configuration="Release"
 #<---------可选参数----------->
